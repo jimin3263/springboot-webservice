@@ -38,3 +38,5 @@ out/
 
 ### MAC ###
 .DS_Store
+
+application-oauth.properties

@@ -3,7 +3,6 @@ var main = {
         var _this = this;
 
         $('#btn-update').on('click', function () {
-            console.log("tqtqtㅅㅂㅅㅂㅅㅂ");
             _this.update();
         });
         $('#btn-save').on('click', function() {
